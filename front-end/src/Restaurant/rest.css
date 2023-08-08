@@ -1,0 +1,23 @@
+.sel{
+  max-width: 2.8rem;
+  height: auto;
+}
+.quantum{
+   margin-top: 0;
+   margin-bottom: 1rem;
+   width: 100%;
+   color: #e72929;
+}
+
+/* @media screen and (max-width: 900px) {
+   .quantum {
+     max-width: 50%;
+   }
+ }
+ 
+
+ @media screen and (max-width: 576px) {
+   .quantum {
+     max-width: 80%;
+   }
+ } */
